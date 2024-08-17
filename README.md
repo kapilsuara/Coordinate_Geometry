@@ -85,4 +85,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-This `README.md` should be placed in the root directory of your project, where it can provide guidance to users who want to understand how to use the `Line` class and its features.
+
